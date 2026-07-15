@@ -1,5 +1,6 @@
-status: pending
+status: approved
 requestedBy: zhang_three
 requestedAt: 2026-07-15T08:18:05.054Z
-approvedBy: []
-updatedAt: 2026-07-15T08:18:05.054Z
+approvedBy:
+  - zhang.three
+updatedAt: 2026-07-15T08:42:04.747Z
