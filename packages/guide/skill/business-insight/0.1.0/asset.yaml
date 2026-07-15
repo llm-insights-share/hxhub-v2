@@ -1,0 +1,16 @@
+id: business-insight
+kind: guide.skill
+stage: req
+task: biz-understanding
+version: 0.1.0
+origin: hub
+status: trial
+execution: inferential
+provenance:
+  - type: local-skill-source
+    ref: /Users/zhangjr/works/My Works@2026/Study/ai-code/business-insight
+  - type: promoted-from
+    ref: hxhub-v2:harness-hub/packages/guide/skill/business-insight
+  - type: evidence
+    ref: 增加业务洞察技能
+metrics: {}

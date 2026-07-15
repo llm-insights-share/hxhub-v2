@@ -1,0 +1,16 @@
+id: business-insight
+version: 0.1.0
+category: package
+kind: guide.skill
+status: trial
+stages:
+  - req
+tags: []
+provenance:
+  source: hxhub-v2
+  evidence:
+    - type: evidence
+      ref: 增加业务洞察技能
+security:
+  hash: 309c6db661fd7eba8e63e86df52d7672ff4ad1f17851e361635430a4c2fbef81
+updatedAt: 2026-07-15T08:18:05.055Z
