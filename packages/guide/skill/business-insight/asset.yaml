@@ -1,0 +1,12 @@
+id: business-insight
+kind: guide.skill
+stage: req
+task: biz-understanding
+version: 0.1.0
+origin: local
+status: trial
+execution: inferential
+provenance:
+  - type: local-skill-source
+    ref: /Users/zhangjr/works/My Works@2026/Study/ai-code/business-insight
+metrics: {}
